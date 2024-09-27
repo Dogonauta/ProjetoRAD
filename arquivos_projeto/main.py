@@ -1,8 +1,8 @@
-import defs
+import funcoes
 import sqlite3
 import classes
 
-defs.criar_tabela()
-defs.inserir_dados()
-defs.deletar_dados()
-defs.listar_tabela()
+funcoes.criar_tabela()
+funcoes.inserir_dados()
+funcoes.deletar_dados()
+funcoes.listar_tabela()
