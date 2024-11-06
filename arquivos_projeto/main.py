@@ -1,8 +1,7 @@
 import funcoes
-import sqlite3
-import classes
+import interface
 
 funcoes.criar_tabela()
-funcoes.inserir_dados()
-funcoes.deletar_dados()
-funcoes.listar_tabela()
+janela = interface.tk.Tk()
+app = interface.App(janela)
+janela.mainloop()
