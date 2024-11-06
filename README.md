@@ -111,5 +111,5 @@ O projeto foi desenvolvido com a metodologia RAD, que inclui as seguintes fases:
 
 ## Feito por :
 
-|[<img src="./assents/eu.png" width=115><br> Gabriel França </sub>](https://github.com/dogonauta)
+|[<img src="./arquivos_projeto./assents/eu.png" width=115><br> Gabriel França </sub>](https://github.com/dogonauta)
 | :---: |
